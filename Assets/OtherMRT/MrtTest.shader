@@ -25,8 +25,10 @@
     FragmentOutput frag_mrt(v2f_img i) : SV_Target
     {
         FragmentOutput o;
-        o.dest0 = frac(i.uv.x * 10);
-        o.dest1 = frac(i.uv.y * 10);
+        //o.dest0 = frac(i.uv.x * 10);
+        //o.dest1 = frac(i.uv.y * 5);
+        o.dest0 = half4(1, 0, 0, 1);
+        o.dest1 = half4(0, 1, 0, 1);
         return o;
     }
 
@@ -36,7 +38,8 @@
         half4 t1 = tex2D(_MainTex, i.uv);
         half4 t2 = tex2D(_SecondTex, i.uv);
         half4 t3 = tex2D(_ThirdTex, i.uv);
-        return half4(t1.r, t2.g, t3.b, 1);
+        return half4(t2.r, t3.g, 0, 1);
+        //return half4(t1.r, t2.g, t3.b, 1);
     }
 
     ENDCG

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Unity\\UnityMrtTest2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A05057-C335-AFA1-D149-1957FC4CCCCB}|Assembly-CSharp.csproj|d:\\projects\\unity\\unitymrttest2\\assets\\othermrt\\mrttest.shader||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3A05057-C335-AFA1-D149-1957FC4CCCCB}|Assembly-CSharp.csproj|solutionrelative:assets\\othermrt\\mrttest.shader||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A05057-C335-AFA1-D149-1957FC4CCCCB}|Assembly-CSharp.csproj|d:\\projects\\unity\\unitymrttest2\\assets\\othermrt\\mrttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A05057-C335-AFA1-D149-1957FC4CCCCB}|Assembly-CSharp.csproj|solutionrelative:assets\\othermrt\\mrttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A05057-C335-AFA1-D149-1957FC4CCCCB}|Assembly-CSharp.csproj|d:\\projects\\unity\\unitymrttest2\\assets\\mystencil\\plane.shader||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3A05057-C335-AFA1-D149-1957FC4CCCCB}|Assembly-CSharp.csproj|solutionrelative:assets\\mystencil\\plane.shader||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A05057-C335-AFA1-D149-1957FC4CCCCB}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\UnityMrtTest2\\assets\\mystencil\\cube.shader||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3A05057-C335-AFA1-D149-1957FC4CCCCB}|Assembly-CSharp.csproj|solutionrelative:assets\\mystencil\\cube.shader||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A05057-C335-AFA1-D149-1957FC4CCCCB}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\UnityMrtTest2\\assets\\mystencil\\stencilcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A05057-C335-AFA1-D149-1957FC4CCCCB}|Assembly-CSharp.csproj|solutionrelative:assets\\mystencil\\stencilcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Unity\\UnityMrtTest2\\assets\\mrttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\mrttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MrtTest.shader",
+              "DocumentMoniker": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\OtherMRT\\MrtTest.shader",
+              "RelativeDocumentMoniker": "Assets\\OtherMRT\\MrtTest.shader",
+              "ToolTip": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\OtherMRT\\MrtTest.shader",
+              "RelativeToolTip": "Assets\\OtherMRT\\MrtTest.shader",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-11T07:26:36.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MrtTest.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\OtherMRT\\MrtTest.cs",
+              "RelativeDocumentMoniker": "Assets\\OtherMRT\\MrtTest.cs",
+              "ToolTip": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\OtherMRT\\MrtTest.cs",
+              "RelativeToolTip": "Assets\\OtherMRT\\MrtTest.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:26:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StencilControl.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\MyStencil\\StencilControl.cs",
+              "RelativeDocumentMoniker": "Assets\\MyStencil\\StencilControl.cs",
+              "ToolTip": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\MyStencil\\StencilControl.cs",
+              "RelativeToolTip": "Assets\\MyStencil\\StencilControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:13:46.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CUBE.shader",
+              "DocumentMoniker": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\MyStencil\\CUBE.shader",
+              "RelativeDocumentMoniker": "Assets\\MyStencil\\CUBE.shader",
+              "ToolTip": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\MyStencil\\CUBE.shader",
+              "RelativeToolTip": "Assets\\MyStencil\\CUBE.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-10T10:11:54.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PLANE.shader",
+              "DocumentMoniker": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\MyStencil\\PLANE.shader",
+              "RelativeDocumentMoniker": "Assets\\MyStencil\\PLANE.shader",
+              "ToolTip": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\MyStencil\\PLANE.shader",
+              "RelativeToolTip": "Assets\\MyStencil\\PLANE.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-10T10:09:23.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MrtTest.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\MrtTest.cs",
+              "RelativeDocumentMoniker": "Assets\\MrtTest.cs",
+              "ToolTip": "D:\\Projects\\Unity\\UnityMrtTest2\\Assets\\MrtTest.cs",
+              "RelativeToolTip": "Assets\\MrtTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxsAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:07:34.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
